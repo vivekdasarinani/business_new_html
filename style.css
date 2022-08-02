@@ -6,6 +6,18 @@
   font-family: 'Roboto', sans-serif;
 }
 
+.clearfix {
+  clear: both;
+}
+
+.section-title-white h3 {
+  padding: 20px;
+}
+
+.section-title-white p {
+  padding: 20px;
+}
+
 i.fa.fa {
   flex-direction: row;
   justify-content: center;
@@ -125,6 +137,7 @@ nav {
   background-color: #085472;
   margin: 2px;
   padding: 10px 10px;
+  text-align: center;
 }
 
 .box-1 h4 {
@@ -328,8 +341,9 @@ nav {
 }
 
 .happy-customer {
-  background-color: aqua;
   height: 350px;
+  background-color: #49514c;
+  padding: 58px 0px;
 }
 
 .happy-content {
@@ -339,6 +353,7 @@ nav {
 .happy-content h3 {
   font-size: 18px;
   text-align: center;
+  color: #fff;
 }
 
 .happy-title {
@@ -350,6 +365,7 @@ nav {
   text-align: center;
   border: 2px solid #efefef;
   padding: 36px 10px;
+  color: #Fff;
 }
 
 .happy-c5l {
@@ -359,10 +375,12 @@ nav {
 
 .happy-c5l h5 {
   font-size: 29px;
+  color: #fff;
 }
 
 .happy-c5l span {
   font-size: 19px;
+  color: #fff;
 }
 
 .core-features-adel {
@@ -394,11 +412,16 @@ nav {
 .box-6 h5 {
   font-size: 16px;
   text-align: center;
+  color: #beb7b7;
+  text-align: left;
+  padding: 1px 71px;
 }
 
 .box-6 p {
   font-size: 12px;
-  padding: 3px 39px;
+  padding: 1px 65px;
+  text-align: left;
+  color: #aba7a9;
 }
 
 .circle-1 {
@@ -406,8 +429,8 @@ nav {
   height: 51px;
   border: 2px solid #f5f5f5;
   padding: 6px 0px;
+  border-radius: 21%;
   margin-bottom: -76px;
-  border-radius: 100%;
   background-color: #20cbf9;
   color: #fff;
 }
@@ -418,7 +441,7 @@ nav {
 
 .section-box-content {
   display: flex;
-  padding: 30px;
+  padding: 25px 9px;
 }
 
 .meet-team-header {
@@ -428,7 +451,7 @@ nav {
 }
 
 .meet-section {
-  /* align-items: center; */
+  align-items: center;
 }
 
 .meet-section h5 {
@@ -476,7 +499,7 @@ nav {
 }
 
 .offer-letter {
-  background: blueviolet;
+  background: #21c2f8;
 }
 
 .offer-title {
@@ -500,3 +523,20 @@ nav {
   padding: 10px;
   color: #fff;
 }
+
+.section-title-white {
+  color: #fff;
+  text-align: center;
+}
+
+input.button {
+  align-items: center;
+  align-items: center;
+  text-align: center;
+  padding: 8px 17px;
+  /* padding-left: 13px; */
+  background-color: #0172a6;
+  color: #fff;
+  border: none;
+}
+

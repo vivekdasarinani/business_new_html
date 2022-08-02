@@ -5,6 +5,15 @@
   font-family: 'Ibarra Real Nova', serif;
   font-family: 'Roboto', sans-serif;
 }
+.clearfix{
+  clear: both;
+}
+
+.section-title-white h3{
+  padding: 20px;
+}.section-title-white p{
+  padding: 20px;
+}
 i.fa.fa {
   flex-direction: row;
   justify-content: center;
@@ -92,6 +101,7 @@ i.fa.fa {
   background-color: #085472;
   margin: 2px;
   padding: 10px 10px;
+  text-align: center;;
 }.box-1 h4 {
   font-size: 15px;
   color: #fff;
@@ -262,10 +272,10 @@ display: flex;
 .box-10 {
   /* display: block; */
 }
-
 .happy-customer {
-  background-color: aqua;
   height: 350px;
+  background-color: #49514c;
+  padding: 58px 0px;
 }
 
 .happy-content {
@@ -275,6 +285,7 @@ display: flex;
 .happy-content h3 {
   font-size: 18px;
   text-align: center;
+  color: #fff;
 }
 
 .happy-title {
@@ -286,6 +297,7 @@ display: flex;
   text-align: center;
   border: 2px solid #efefef;
   padding: 36px 10px;
+  color: #Fff;
 }
 
 .happy-c5l {
@@ -295,12 +307,13 @@ display: flex;
 
 .happy-c5l h5 {
   font-size: 29px;
+  color: #fff;
 }
 
 .happy-c5l span {
   font-size: 19px;
+  color: #fff;
 }
-
 .core-features-adel {
   padding: 20px;
 }
@@ -330,11 +343,13 @@ display: flex;
 .box-6 h5 {
   font-size: 16px;
   text-align: center;
+  color: #beb7b7;
 }
 
 .box-6 p {
   font-size: 12px;
   padding: 3px 39px;
+  color: #aba7a9;
 }
 
 .circle-1 {
@@ -342,18 +357,22 @@ display: flex;
   height: 51px;
   border: 2px solid #f5f5f5;
   padding: 6px 0px;
+  border-radius: 21%;
   margin-bottom: -76px;
-  border-radius: 100%;
   background-color: #20cbf9;
   color: #fff;
 }
 
+
 .box-7 {
   padding: 0px 24px;
-}.section-box-content{
-display: flex;
-padding: 30px ;
 }
+  .section-box-content {
+    display: flex;
+    padding: 25px 9px;
+  }
+  
+
 
 
 
@@ -384,6 +403,7 @@ background-color: #efefef;
   font-size: 21px;
   /* padding: 6px; */
   color: #6d6567;
+
 }
 
 .pacc-border {
@@ -403,7 +423,7 @@ background-color: #efefef;
 }
 
 .offer-letter {
-  background: blueviolet;
+  background: #21c2f8;
 }
 
 .offer-title {
@@ -425,4 +445,18 @@ align-items: center;
   padding: 10px;
   color: #fff;
 }
+.section-title-white {
+  color: #fff;
+  text-align: center;
+}
 
+input.button {
+  align-items: center;
+  align-items: center;
+  text-align: center;
+  padding: 8px 17px;
+  /* padding-left: 13px; */
+  background-color: #0172a6;
+  color: #fff;
+  border: none;
+}
