@@ -1,0 +1,232 @@
+
+.social-share {
+    position: fixed;
+    width: 46px;
+    height: 40px;
+    left: 50%;
+    cursor: pointer;
+    top: 50%;
+    margin-top: -20px;
+    margin-left: -570px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="social-share" [class]="visiblee ? 'social-share active' : 'social-share'"> <button class="share-btn" aria-label="share button"></button>
+ <ul> 
+<li> <amp-social-share type="pinterest" data-param-media="https://images.sampletemplates.com/wp-content/uploads/2018/09/nice1.jpg" width="18" height="24" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined amp-social-share-pinterest i-amphtml-built i-amphtml-layout" i-amphtml-layout="fixed" style="width: 18px; height: 24px;" role="button" tabindex="0" aria-label="Share by pinterest"> </amp-social-share>
+ </li> 
+<li> <amp-social-share type="facebook" width="18" height="24" data-param-app_id="1466016447690" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined amp-social-share-facebook i-amphtml-built i-amphtml-layout" i-amphtml-layout="fixed" style="width: 18px; height: 24px;" role="button" tabindex="0" aria-label="Share by facebook"> </amp-social-share>
+ </li>
+ <li> <amp-social-share type="twitter" width="26" height="24" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined amp-social-share-twitter i-amphtml-built i-amphtml-layout" i-amphtml-layout="fixed" style="width: 26px; height: 24px;" role="button" tabindex="0" aria-label="Share by twitter"> </amp-social-share> 
+</li>
+ <li> <amp-social-share type="gplus" width="30" height="24" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined i-amphtml-built" i-amphtml-layout="fixed" hidden="" style="width: 30px; height: 24px;"> </amp-social-share> </li> <li> <amp-social-share type="linkedin" width="22" height="24" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined amp-social-share-linkedin i-amphtml-built i-amphtml-layout" i-amphtml-layout="fixed" style="width: 22px; height: 24px;" role="button" tabindex="0" aria-label="Share by linkedin"> </amp-social-share> </li>
+ <li> <amp-social-share type="email" width="30" height="24" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined amp-social-share-email i-amphtml-built i-amphtml-layout" i-amphtml-layout="fixed" style="width: 30px; height: 24px;" role="button" tabindex="0" aria-label="Share by email"> </amp-social-share>
+ </li>
+ </ul>
+ </div>
+
+
+WIPPER----------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://465480381.keywordblocks.com/search.cfm?&amp;lgplp=jf75EJ%3AQN1&amp;ktr=0&amp;vi=1659422768983955254&amp;cq=_NffdR5vJUdKV1sf9&amp;vsid=2999264088269413&amp;kp=2&amp;sc=AP&amp;oksu=224&amp;kt=355&amp;ki=11664892&amp;ktd=274911592704&amp;kbc=9491f8e20653ad38f5efe7d9cf35c7d9.d2s&amp;kbc2=5%3D-1%7C6%3D-1%7C16%3D-1%7C60%3D0.07%7C12%3D0.05%7C62%3D0.21%7C63%3D0.49%7C10%3D5.77%7C66%3D0.25%7C1%3D0.07%7Cps%3D0.949%7C3%3D0.03%7C4%3D2.88&amp;kmb=LTEuMDAw&amp;fdkt=355&amp;kcid=501263&amp;prid=8PR65L8CI&amp;cid=8CUVWZRV0&amp;pid=8PO5C4E8X&amp;crid=146765846&amp;https=1&amp;rms=1659422769&amp;c=&amp;ib=0&amp;size=336x280&amp;lpid=&amp;ksu=224&amp;chid=200500459&amp;kwdsMaxTm=400&amp;ugd=4&amp;tsid=7&amp;asn=55577&amp;nsd=shop.local.com&amp;bid=304229&amp;pid=8PO5C4E8X&amp;rtbsd=6&amp;vgd_hbReqId=T1659421419C8S34U650&amp;kbbq=%26sde%3D1%26adepth%3D1%26ddepth%3D1&amp;tdAdd[]=ampPageViewId%3D265%7C%40%7Cfsap%3D0&amp;vsidtv=000V10&amp;verid=211213&amp;hvsid=00001659422769073008355834012602&amp;upk=1659422769.17333&amp;sttm=1659422769072&amp;vgd_l1rakh=1659422768185300072&amp;vgd_ifrmode=11&amp;&amp;fp=Nv2DteYNlC5OzWrn-Hm5IlltIOfoL9Pgqn4OA_JRNUVibrT00Q_iSj_6sppqJ6c53f52-4tAI5mxSGCmdJKuLYtgo8XTK-faFng6GXMCGl8m5-AVBeCog54peIji84soHUhD0fcCiA8%3D&amp;cme=ALTNGVWzegTi7VZapDuEXDtPBGWzRLH4ruHDR0fIHnPQJf_FYXXYKAFz8zbzSyay0H5p26fCbqb7mn9clYjPxt6dFtQMhX9VQid-0J7sY9xbCHzHiXQgBk1897IyFdAi05hnduNE7gejhS7AjIP78QgiFDZmx8eA3D1QR1IXKGYCyCT5opk1zkZ1fwfif4TfpRLWcaHtksFYBFdwCJcFV9gJU0vnsheK%7C%7Cxrl5Md8q4-9bp1WSNmrnd2_3HOdmf6D10_oNFlY7wK_2AterVKSpxg%3D%3D%7CgYDyqD5f1q4z3TAD1fCUHBB0DE82pddK44IMQUIHYTEeghHFWsd8HKy6x2QtFMonrJ6POn7EyuBCx3zwkapnk-taV9zcf1aL%7C7SmM51i9nJyEHPdJc3aKJ1XSSjBo_f4y%7Cxqv43M3_x25xbsWBgWUUULOJtoe6y_8P%7CmDzUi0QRM5ZZAH4bvDzPCqS1GuYfhkErmsQKyt21OsCa610mr-ATK8DGvuuN8HLT4kPpoquN0MXJtctefpfWtAm949ekD0crHg0zcdgRYCX0aTWQulvzu_8JG7uRXQsxUQC3Vgp_UFHxtR8HtrH4bifDncoOAphNyE9Y2osAtNBYbOpirUpeQRE-t1mJfWeRRk_KTbgbQGmF4PZbeJG11cxB9OfmOyRC1ZJftuull94%3D%7C&amp;ecref=w77EQ%3ASSBBB.kLJJNLJ178eJQ.NmYSG1NUyLmxzOQSE1EJLoG1NUyLmxzOQ.w7Yj&amp;bd=5.5%23864%231536&amp;lgpl=eQ7L8O%3AfiiifFH9WWfFiHuA%7CmE7mx7%3A9%7CNkxO%3Aff9H9X%7C8QM1YE%3Au%7CQNQeJL%3Afhh%7C8N17%3Aou%7CQEN17%3Aou%7CymMJz7%3Au%7CjfNw%3A9%7CLJzQ8lJ%3AAAFMfW9%7CQNLMw%3AWFH%7CQNLMB%3AuXAF%7CJN7%3AHy%7C1UN8E%3AHi.f9X.fXA.uFi&amp;kct=157766" class="dak2 anchorhref" target="_top" onmouseout="changeStatus('');return true;" onclick=";"></a>
+
+
+
+element.style {
+}
+<style>
+li .num {
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+    position: absolute;
+    left: 7px;
+    top: 50%;
+    margin-top: -17px;
+    text-align: center;
+    border-radius: 50%;
+    font-family: OpenSans_Semibold, Arial, sans-serif;
+    font-size: 16px;
+    color: #030303;
+    background-color: #fff;
+    display: inline;
+    font-weight: Bold;
+}
+<div class="ios_fix">
+<div class="wrapper">
+<div class="header_title">Search for</div>
+<div class="header"></div>
+<div class="list_wrapper">
+<ul class="list_1"> 
+<li>
+  <div class="content">
+  <div class="num">1</div><div class="arrow"></div>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" align="left">
+    <tbody><tr><td width="100%" align="left" valign="middle" height="53">
+      <div class="anchortext"><a href="https://465480381.keywordblocks.com/search.cfm?&amp;lgplp=jf75EJ%3AQN1&amp;ktr=0&amp;vi=1659422768983955254&amp;cq=_Nffdh1JUsNv3B4dKV1sf9&amp;vsid=2999264088269413&amp;kp=1&amp;sc=AP&amp;oksu=224&amp;kt=355&amp;ki=11517713&amp;ktd=274894815488&amp;kbc=9491f8e20653ad38f5efe7d9cf35c7d9.d2s&amp;kbc2=5%3D-1%7C6%3D-1%7C16%3D-1%7C60%3D0.06%7C12%3D0.05%7C62%3D0.21%7C63%3D0.49%7C10%3D5.77%7C66%3D0.25%7C1%3D0.06%7Cps%3D0.949%7C3%3D0.03%7C4%3D3.29&amp;kmb=LTEuMDAw&amp;fdkt=355&amp;kcid=501263&amp;prid=8PR65L8CI&amp;cid=8CUVWZRV0&amp;pid=8PO5C4E8X&amp;crid=146765846&amp;https=1&amp;rms=1659422769&amp;c=&amp;ib=0&amp;size=336x280&amp;lpid=&amp;ksu=224&amp;chid=200500459&amp;kwdsMaxTm=400&amp;ugd=4&amp;tsid=7&amp;asn=55577&amp;nsd=shop.local.com&amp;bid=304229&amp;pid=8PO5C4E8X&amp;rtbsd=6&amp;vgd_hbReqId=T1659421419C8S34U650&amp;kbbq=%26sde%3D1%26adepth%3D1%26ddepth%3D1&amp;tdAdd[]=ampPageViewId%3D265%7C%40%7Cfsap%3D0&amp;vsidtv=000V10&amp;verid=211213&amp;hvsid=00001659422769073008355834012602&amp;upk=1659422769.17333&amp;sttm=1659422769072&amp;vgd_l1rakh=1659422768185300072&amp;vgd_ifrmode=11&amp;&amp;fp=Nv2DteYNlC5OzWrn-Hm5IlltIOfoL9Pgqn4OA_JRNUVibrT00Q_iSj_6sppqJ6c53f52-4tAI5mxSGCmdJKuLYtgo8XTK-faFng6GXMCGl8m5-AVBeCog54peIji84soHUhD0fcCiA8%3D&amp;cme=ALTNGVWzegTi7VZapDuEXDtPBGWzRLH4ruHDR0fIHnPQJf_FYXXYKAFz8zbzSyay0H5p26fCbqb7mn9clYjPxt6dFtQMhX9VQid-0J7sY9xbCHzHiXQgBk1897IyFdAi05hnduNE7gejhS7AjIP78QgiFDZmx8eA3D1QR1IXKGYCyCT5opk1zkZ1fwfif4TfpRLWcaHtksFYBFdwCJcFV9gJU0vnsheK%7C%7Cxrl5Md8q4-9bp1WSNmrnd2_3HOdmf6D10_oNFlY7wK_2AterVKSpxg%3D%3D%7CgYDyqD5f1q4z3TAD1fCUHBB0DE82pddK44IMQUIHYTEeghHFWsd8HKy6x2QtFMonrJ6POn7EyuBCx3zwkapnk-taV9zcf1aL%7C7SmM51i9nJyEHPdJc3aKJ1XSSjBo_f4y%7Cxqv43M3_x25xbsWBgWUUULOJtoe6y_8P%7CmDzUi0QRM5ZZAH4bvDzPCqS1GuYfhkErmsQKyt21OsCa610mr-ATK8DGvuuN8HLT4kPpoquN0MXJtctefpfWtAm949ekD0crHg0zcdgRYCX0aTWQulvzu_8JG7uRXQsxUQC3Vgp_UFHxtR8HtrH4bifDncoOAphNyE9Y2osAtNBYbOpirUpeQRE-t1mJfWeRRk_KTbgbQGmF4PZbeJG11cxB9OfmOyRC1ZJftuull94%3D%7C&amp;ecref=w77EQ%3ASSBBB.kLJJNLJ178eJQ.NmYSG1NUyLmxzOQSE1EJLoG1NUyLmxzOQ.w7Yj&amp;bd=5.5%23864%231536&amp;lgpl=eQ7L8O%3AfiiifFH9WWfFiHuA%7CmE7mx7%3A9%7CNkxO%3Aff9H9X%7C8QM1YE%3Au%7CQNQeJL%3Afhh%7C8N17%3Aou%7CQEN17%3Aou%7CymMJz7%3Au%7CjfNw%3A9%7CLJzQ8lJ%3AAAFMfW9%7CQNLMw%3AWFH%7CQNLMB%3AuXAF%7CJN7%3AHy%7C1UN8E%3AHi.f9X.fXA.uFi" target="_top" onmouseover="" onmouseout="changeStatus('');return true;" onclick=";" id="dk1" name="dk1" data-misc="{&quot;ogkwd&quot;:&quot;Free Background Images&quot;}">Free Background Images</a></div>
+    </td></tr>
+  </tbody></table>  
+  </div>
+  <a href="https://465480381.keywordblocks.com/search.cfm?&amp;lgplp=jf75EJ%3AQN1&amp;ktr=0&amp;vi=1659422768983955254&amp;cq=_Nffdh1JUsNv3B4dKV1sf9&amp;vsid=2999264088269413&amp;kp=1&amp;sc=AP&amp;oksu=224&amp;kt=355&amp;ki=11517713&amp;ktd=274894815488&amp;kbc=9491f8e20653ad38f5efe7d9cf35c7d9.d2s&amp;kbc2=5%3D-1%7C6%3D-1%7C16%3D-1%7C60%3D0.06%7C12%3D0.05%7C62%3D0.21%7C63%3D0.49%7C10%3D5.77%7C66%3D0.25%7C1%3D0.06%7Cps%3D0.949%7C3%3D0.03%7C4%3D3.29&amp;kmb=LTEuMDAw&amp;fdkt=355&amp;kcid=501263&amp;prid=8PR65L8CI&amp;cid=8CUVWZRV0&amp;pid=8PO5C4E8X&amp;crid=146765846&amp;https=1&amp;rms=1659422769&amp;c=&amp;ib=0&amp;size=336x280&amp;lpid=&amp;ksu=224&amp;chid=200500459&amp;kwdsMaxTm=400&amp;ugd=4&amp;tsid=7&amp;asn=55577&amp;nsd=shop.local.com&amp;bid=304229&amp;pid=8PO5C4E8X&amp;rtbsd=6&amp;vgd_hbReqId=T1659421419C8S34U650&amp;kbbq=%26sde%3D1%26adepth%3D1%26ddepth%3D1&amp;tdAdd[]=ampPageViewId%3D265%7C%40%7Cfsap%3D0&amp;vsidtv=000V10&amp;verid=211213&amp;hvsid=00001659422769073008355834012602&amp;upk=1659422769.17333&amp;sttm=1659422769072&amp;vgd_l1rakh=1659422768185300072&amp;vgd_ifrmode=11&amp;&amp;fp=Nv2DteYNlC5OzWrn-Hm5IlltIOfoL9Pgqn4OA_JRNUVibrT00Q_iSj_6sppqJ6c53f52-4tAI5mxSGCmdJKuLYtgo8XTK-faFng6GXMCGl8m5-AVBeCog54peIji84soHUhD0fcCiA8%3D&amp;cme=ALTNGVWzegTi7VZapDuEXDtPBGWzRLH4ruHDR0fIHnPQJf_FYXXYKAFz8zbzSyay0H5p26fCbqb7mn9clYjPxt6dFtQMhX9VQid-0J7sY9xbCHzHiXQgBk1897IyFdAi05hnduNE7gejhS7AjIP78QgiFDZmx8eA3D1QR1IXKGYCyCT5opk1zkZ1fwfif4TfpRLWcaHtksFYBFdwCJcFV9gJU0vnsheK%7C%7Cxrl5Md8q4-9bp1WSNmrnd2_3HOdmf6D10_oNFlY7wK_2AterVKSpxg%3D%3D%7CgYDyqD5f1q4z3TAD1fCUHBB0DE82pddK44IMQUIHYTEeghHFWsd8HKy6x2QtFMonrJ6POn7EyuBCx3zwkapnk-taV9zcf1aL%7C7SmM51i9nJyEHPdJc3aKJ1XSSjBo_f4y%7Cxqv43M3_x25xbsWBgWUUULOJtoe6y_8P%7CmDzUi0QRM5ZZAH4bvDzPCqS1GuYfhkErmsQKyt21OsCa610mr-ATK8DGvuuN8HLT4kPpoquN0MXJtctefpfWtAm949ekD0crHg0zcdgRYCX0aTWQulvzu_8JG7uRXQsxUQC3Vgp_UFHxtR8HtrH4bifDncoOAphNyE9Y2osAtNBYbOpirUpeQRE-t1mJfWeRRk_KTbgbQGmF4PZbeJG11cxB9OfmOyRC1ZJftuull94%3D%7C&amp;ecref=w77EQ%3ASSBBB.kLJJNLJ178eJQ.NmYSG1NUyLmxzOQSE1EJLoG1NUyLmxzOQ.w7Yj&amp;bd=5.5%23864%231536&amp;lgpl=eQ7L8O%3AfiiifFH9WWfFiHuA%7CmE7mx7%3A9%7CNkxO%3Aff9H9X%7C8QM1YE%3Au%7CQNQeJL%3Afhh%7C8N17%3Aou%7CQEN17%3Aou%7CymMJz7%3Au%7CjfNw%3A9%7CLJzQ8lJ%3AAAFMfW9%7CQNLMw%3AWFH%7CQNLMB%3AuXAF%7CJN7%3AHy%7C1UN8E%3AHi.f9X.fXA.uFi&amp;kct=37201" class="dak1 anchorhref" target="_top" onmouseout="changeStatus('');return true;" onclick=";"></a>
+</li>
+<li>
+  <div class="content">
+  <div class="num">2</div><div class="arrow"></div>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" align="left">
+    <tbody><tr><td width="100%" align="left" valign="middle" height="53">
+      <div class="anchortext"><a href="https://465480381.keywordblocks.com/search.cfm?&amp;lgplp=jf75EJ%3AQN1&amp;ktr=0&amp;vi=1659422768983955254&amp;cq=_NffdR5vJUdKV1sf9&amp;vsid=2999264088269413&amp;kp=2&amp;sc=AP&amp;oksu=224&amp;kt=355&amp;ki=11664892&amp;ktd=274911592704&amp;kbc=9491f8e20653ad38f5efe7d9cf35c7d9.d2s&amp;kbc2=5%3D-1%7C6%3D-1%7C16%3D-1%7C60%3D0.07%7C12%3D0.05%7C62%3D0.21%7C63%3D0.49%7C10%3D5.77%7C66%3D0.25%7C1%3D0.07%7Cps%3D0.949%7C3%3D0.03%7C4%3D2.88&amp;kmb=LTEuMDAw&amp;fdkt=355&amp;kcid=501263&amp;prid=8PR65L8CI&amp;cid=8CUVWZRV0&amp;pid=8PO5C4E8X&amp;crid=146765846&amp;https=1&amp;rms=1659422769&amp;c=&amp;ib=0&amp;size=336x280&amp;lpid=&amp;ksu=224&amp;chid=200500459&amp;kwdsMaxTm=400&amp;ugd=4&amp;tsid=7&amp;asn=55577&amp;nsd=shop.local.com&amp;bid=304229&amp;pid=8PO5C4E8X&amp;rtbsd=6&amp;vgd_hbReqId=T1659421419C8S34U650&amp;kbbq=%26sde%3D1%26adepth%3D1%26ddepth%3D1&amp;tdAdd[]=ampPageViewId%3D265%7C%40%7Cfsap%3D0&amp;vsidtv=000V10&amp;verid=211213&amp;hvsid=00001659422769073008355834012602&amp;upk=1659422769.17333&amp;sttm=1659422769072&amp;vgd_l1rakh=1659422768185300072&amp;vgd_ifrmode=11&amp;&amp;fp=Nv2DteYNlC5OzWrn-Hm5IlltIOfoL9Pgqn4OA_JRNUVibrT00Q_iSj_6sppqJ6c53f52-4tAI5mxSGCmdJKuLYtgo8XTK-faFng6GXMCGl8m5-AVBeCog54peIji84soHUhD0fcCiA8%3D&amp;cme=ALTNGVWzegTi7VZapDuEXDtPBGWzRLH4ruHDR0fIHnPQJf_FYXXYKAFz8zbzSyay0H5p26fCbqb7mn9clYjPxt6dFtQMhX9VQid-0J7sY9xbCHzHiXQgBk1897IyFdAi05hnduNE7gejhS7AjIP78QgiFDZmx8eA3D1QR1IXKGYCyCT5opk1zkZ1fwfif4TfpRLWcaHtksFYBFdwCJcFV9gJU0vnsheK%7C%7Cxrl5Md8q4-9bp1WSNmrnd2_3HOdmf6D10_oNFlY7wK_2AterVKSpxg%3D%3D%7CgYDyqD5f1q4z3TAD1fCUHBB0DE82pddK44IMQUIHYTEeghHFWsd8HKy6x2QtFMonrJ6POn7EyuBCx3zwkapnk-taV9zcf1aL%7C7SmM51i9nJyEHPdJc3aKJ1XSSjBo_f4y%7Cxqv43M3_x25xbsWBgWUUULOJtoe6y_8P%7CmDzUi0QRM5ZZAH4bvDzPCqS1GuYfhkErmsQKyt21OsCa610mr-ATK8DGvuuN8HLT4kPpoquN0MXJtctefpfWtAm949ekD0crHg0zcdgRYCX0aTWQulvzu_8JG7uRXQsxUQC3Vgp_UFHxtR8HtrH4bifDncoOAphNyE9Y2osAtNBYbOpirUpeQRE-t1mJfWeRRk_KTbgbQGmF4PZbeJG11cxB9OfmOyRC1ZJftuull94%3D%7C&amp;ecref=w77EQ%3ASSBBB.kLJJNLJ178eJQ.NmYSG1NUyLmxzOQSE1EJLoG1NUyLmxzOQ.w7Yj&amp;bd=5.5%23864%231536&amp;lgpl=eQ7L8O%3AfiiifFH9WWfFiHuA%7CmE7mx7%3A9%7CNkxO%3Aff9H9X%7C8QM1YE%3Au%7CQNQeJL%3Afhh%7C8N17%3Aou%7CQEN17%3Aou%7CymMJz7%3Au%7CjfNw%3A9%7CLJzQ8lJ%3AAAFMfW9%7CQNLMw%3AWFH%7CQNLMB%3AuXAF%7CJN7%3AHy%7C1UN8E%3AHi.f9X.fXA.uFi" target="_top" onmouseover="" onmouseout="changeStatus('');return true;" onclick=";" id="dk2" name="dk2" data-misc="{&quot;ogkwd&quot;:&quot;Free Stock Images&quot;}">Free Stock Images</a></div>
+    </td></tr>
+  </tbody></table>  
+  </div>
+  <a href="https://465480381.keywordblocks.com/search.cfm?&amp;lgplp=jf75EJ%3AQN1&amp;ktr=0&amp;vi=1659422768983955254&amp;cq=_NffdR5vJUdKV1sf9&amp;vsid=2999264088269413&amp;kp=2&amp;sc=AP&amp;oksu=224&amp;kt=355&amp;ki=11664892&amp;ktd=274911592704&amp;kbc=9491f8e20653ad38f5efe7d9cf35c7d9.d2s&amp;kbc2=5%3D-1%7C6%3D-1%7C16%3D-1%7C60%3D0.07%7C12%3D0.05%7C62%3D0.21%7C63%3D0.49%7C10%3D5.77%7C66%3D0.25%7C1%3D0.07%7Cps%3D0.949%7C3%3D0.03%7C4%3D2.88&amp;kmb=LTEuMDAw&amp;fdkt=355&amp;kcid=501263&amp;prid=8PR65L8CI&amp;cid=8CUVWZRV0&amp;pid=8PO5C4E8X&amp;crid=146765846&amp;https=1&amp;rms=1659422769&amp;c=&amp;ib=0&amp;size=336x280&amp;lpid=&amp;ksu=224&amp;chid=200500459&amp;kwdsMaxTm=400&amp;ugd=4&amp;tsid=7&amp;asn=55577&amp;nsd=shop.local.com&amp;bid=304229&amp;pid=8PO5C4E8X&amp;rtbsd=6&amp;vgd_hbReqId=T1659421419C8S34U650&amp;kbbq=%26sde%3D1%26adepth%3D1%26ddepth%3D1&amp;tdAdd[]=ampPageViewId%3D265%7C%40%7Cfsap%3D0&amp;vsidtv=000V10&amp;verid=211213&amp;hvsid=00001659422769073008355834012602&amp;upk=1659422769.17333&amp;sttm=1659422769072&amp;vgd_l1rakh=1659422768185300072&amp;vgd_ifrmode=11&amp;&amp;fp=Nv2DteYNlC5OzWrn-Hm5IlltIOfoL9Pgqn4OA_JRNUVibrT00Q_iSj_6sppqJ6c53f52-4tAI5mxSGCmdJKuLYtgo8XTK-faFng6GXMCGl8m5-AVBeCog54peIji84soHUhD0fcCiA8%3D&amp;cme=ALTNGVWzegTi7VZapDuEXDtPBGWzRLH4ruHDR0fIHnPQJf_FYXXYKAFz8zbzSyay0H5p26fCbqb7mn9clYjPxt6dFtQMhX9VQid-0J7sY9xbCHzHiXQgBk1897IyFdAi05hnduNE7gejhS7AjIP78QgiFDZmx8eA3D1QR1IXKGYCyCT5opk1zkZ1fwfif4TfpRLWcaHtksFYBFdwCJcFV9gJU0vnsheK%7C%7Cxrl5Md8q4-9bp1WSNmrnd2_3HOdmf6D10_oNFlY7wK_2AterVKSpxg%3D%3D%7CgYDyqD5f1q4z3TAD1fCUHBB0DE82pddK44IMQUIHYTEeghHFWsd8HKy6x2QtFMonrJ6POn7EyuBCx3zwkapnk-taV9zcf1aL%7C7SmM51i9nJyEHPdJc3aKJ1XSSjBo_f4y%7Cxqv43M3_x25xbsWBgWUUULOJtoe6y_8P%7CmDzUi0QRM5ZZAH4bvDzPCqS1GuYfhkErmsQKyt21OsCa610mr-ATK8DGvuuN8HLT4kPpoquN0MXJtctefpfWtAm949ekD0crHg0zcdgRYCX0aTWQulvzu_8JG7uRXQsxUQC3Vgp_UFHxtR8HtrH4bifDncoOAphNyE9Y2osAtNBYbOpirUpeQRE-t1mJfWeRRk_KTbgbQGmF4PZbeJG11cxB9OfmOyRC1ZJftuull94%3D%7C&amp;ecref=w77EQ%3ASSBBB.kLJJNLJ178eJQ.NmYSG1NUyLmxzOQSE1EJLoG1NUyLmxzOQ.w7Yj&amp;bd=5.5%23864%231536&amp;lgpl=eQ7L8O%3AfiiifFH9WWfFiHuA%7CmE7mx7%3A9%7CNkxO%3Aff9H9X%7C8QM1YE%3Au%7CQNQeJL%3Afhh%7C8N17%3Aou%7CQEN17%3Aou%7CymMJz7%3Au%7CjfNw%3A9%7CLJzQ8lJ%3AAAFMfW9%7CQNLMw%3AWFH%7CQNLMB%3AuXAF%7CJN7%3AHy%7C1UN8E%3AHi.f9X.fXA.uFi&amp;kct=37358" class="dak2 anchorhref" target="_top" onmouseout="changeStatus('');return true;" onclick=";"></a>
+</li>
+<li>
+  <div class="content">
+  <div class="num">3</div><div class="arrow"></div>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" align="left">
+    <tbody><tr><td width="100%" align="left" valign="middle" height="53">
+      <div class="anchortext"><a href="https://465480381.keywordblocks.com/search.cfm?&amp;lgplp=jf75EJ%3AQN1&amp;ktr=0&amp;vi=1659422768983955254&amp;cq=nBaWBfdSf44WBsdKBmW515WvB9&amp;vsid=2999264088269413&amp;kp=3&amp;sc=AP&amp;oksu=224&amp;kt=355&amp;ki=21270528&amp;ktd=1441152155670216960&amp;kbc=9491f8e20653ad38f5efe7d9cf35c7d9.d2s&amp;kbc2=5%7C5%3D-1%7C6%3D-1%7C16%3D-1%7C60%3D0.10%7C12%3D0.09%7C62%3D0.18%7C63%3D0.49%7C10%3D5.77%7C66%3D0.38%7C1%3D0.10%7Cps%3D0.949%7C3%3D0.13%7C4%3D2.46&amp;kmb=LTEuMDAw&amp;fdkt=355&amp;kcid=500828&amp;prid=8PR65L8CI&amp;cid=8CUVWZRV0&amp;pid=8PO5C4E8X&amp;crid=146765846&amp;https=1&amp;rms=1659422769&amp;c=&amp;ib=0&amp;size=336x280&amp;lpid=&amp;ksu=224&amp;chid=200500459&amp;kwdsMaxTm=400&amp;ugd=4&amp;tsid=7&amp;asn=55577&amp;nsd=events.local.com&amp;bid=304229&amp;pid=8PO5C4E8X&amp;rtbsd=6&amp;vgd_hbReqId=T1659421419C8S34U650&amp;kbbq=%26sde%3D1%26adepth%3D1%26ddepth%3D1&amp;tdAdd[]=ampPageViewId%3D265%7C%40%7Cfsap%3D0&amp;vsidtv=000V10&amp;verid=211213&amp;hvsid=00001659422769073008355834012602&amp;upk=1659422769.17333&amp;sttm=1659422769072&amp;vgd_l1rakh=1659422768185300072&amp;vgd_ifrmode=11&amp;&amp;fp=Nv2DteYNlC5OzWrn-Hm5IlltIOfoL9Pgqn4OA_JRNUVibrT00Q_iSj_6sppqJ6c53f52-4tAI5mxSGCmdJKuLYtgo8XTK-faFng6GXMCGl8m5-AVBeCog54peIji84soHUhD0fcCiA8%3D&amp;cme=ALTNGVWzegTi7VZapDuEXDtPBGWzRLH4ruHDR0fIHnPQJf_FYXXYKAFz8zbzSyay0H5p26fCbqb7mn9clYjPxt6dFtQMhX9VQid-0J7sY9xbCHzHiXQgBk1897IyFdAi05hnduNE7gejhS7AjIP78QgiFDZmx8eA3D1QR1IXKGYCyCT5opk1zkZ1fwfif4TfpRLWcaHtksFYBFdwCJcFV9gJU0vnsheK%7C%7Cxrl5Md8q4-9bp1WSNmrnd2_3HOdmf6D10_oNFlY7wK_2AterVKSpxg%3D%3D%7CgYDyqD5f1q4z3TAD1fCUHBB0DE82pddK44IMQUIHYTEeghHFWsd8HKy6x2QtFMonrJ6POn7EyuBCx3zwkapnk-taV9zcf1aL%7C7SmM51i9nJyEHPdJc3aKJ1XSSjBo_f4y%7Cxqv43M3_x25xbsWBgWUUULOJtoe6y_8P%7CmDzUi0QRM5ZZAH4bvDzPCqS1GuYfhkErmsQKyt21OsCa610mr-ATK8DGvuuN8HLT4kPpoquN0MXJtctefpfWtAm949ekD0crHg0zcdgRYCX0aTWQulvzu_8JG7uRXQsxUQC3Vgp_UFHxtR8HtrH4bifDncoOAphNyE9Y2osAtNBYbOpirUpeQRE-t1mJfWeRRk_KTbgbQGmF4PZbeJG11cxB9OfmOyRC1ZJftuull94%3D%7C&amp;ecref=w77EQ%3ASSBBB.kLJJNLJ178eJQ.NmYSG1NUyLmxzOQSE1EJLoG1NUyLmxzOQ.w7Yj&amp;bd=5.5%23864%231536&amp;lgpl=eQ7L8O%3AfiiifFH9WWfFiHuA%7CmE7mx7%3A9%7CNkxO%3Aff9H9X%7C8QM1YE%3Au%7CQNQeJL%3Afhh%7C8N17%3Aou%7CQEN17%3Aou%7CymMJz7%3Au%7CjfNw%3A9%7CLJzQ8lJ%3AAAFMfW9%7CQNLMw%3AWFH%7CQNLMB%3AuXAF%7CJN7%3AHy%7C1UN8E%3AHi.f9X.fXA.uFi" target="_top" onmouseover="" onmouseout="changeStatus('');return true;" onclick=";" id="dk3" name="dk3" data-misc="{&quot;ogkwd&quot;:&quot;Online Wedding Invitations&quot;}">Online Wedding Invitations</a></div>
+    </td></tr>
+  </tbody></table>  
+  </div>
+  <a href="https://465480381.keywordblocks.com/search.cfm?&amp;lgplp=jf75EJ%3AQN1&amp;ktr=0&amp;vi=1659422768983955254&amp;cq=nBaWBfdSf44WBsdKBmW515WvB9&amp;vsid=2999264088269413&amp;kp=3&amp;sc=AP&amp;oksu=224&amp;kt=355&amp;ki=21270528&amp;ktd=1441152155670216960&amp;kbc=9491f8e20653ad38f5efe7d9cf35c7d9.d2s&amp;kbc2=5%7C5%3D-1%7C6%3D-1%7C16%3D-1%7C60%3D0.10%7C12%3D0.09%7C62%3D0.18%7C63%3D0.49%7C10%3D5.77%7C66%3D0.38%7C1%3D0.10%7Cps%3D0.949%7C3%3D0.13%7C4%3D2.46&amp;kmb=LTEuMDAw&amp;fdkt=355&amp;kcid=500828&amp;prid=8PR65L8CI&amp;cid=8CUVWZRV0&amp;pid=8PO5C4E8X&amp;crid=146765846&amp;https=1&amp;rms=1659422769&amp;c=&amp;ib=0&amp;size=336x280&amp;lpid=&amp;ksu=224&amp;chid=200500459&amp;kwdsMaxTm=400&amp;ugd=4&amp;tsid=7&amp;asn=55577&amp;nsd=events.local.com&amp;bid=304229&amp;pid=8PO5C4E8X&amp;rtbsd=6&amp;vgd_hbReqId=T1659421419C8S34U650&amp;kbbq=%26sde%3D1%26adepth%3D1%26ddepth%3D1&amp;tdAdd[]=ampPageViewId%3D265%7C%40%7Cfsap%3D0&amp;vsidtv=000V10&amp;verid=211213&amp;hvsid=00001659422769073008355834012602&amp;upk=1659422769.17333&amp;sttm=1659422769072&amp;vgd_l1rakh=1659422768185300072&amp;vgd_ifrmode=11&amp;&amp;fp=Nv2DteYNlC5OzWrn-Hm5IlltIOfoL9Pgqn4OA_JRNUVibrT00Q_iSj_6sppqJ6c53f52-4tAI5mxSGCmdJKuLYtgo8XTK-faFng6GXMCGl8m5-AVBeCog54peIji84soHUhD0fcCiA8%3D&amp;cme=ALTNGVWzegTi7VZapDuEXDtPBGWzRLH4ruHDR0fIHnPQJf_FYXXYKAFz8zbzSyay0H5p26fCbqb7mn9clYjPxt6dFtQMhX9VQid-0J7sY9xbCHzHiXQgBk1897IyFdAi05hnduNE7gejhS7AjIP78QgiFDZmx8eA3D1QR1IXKGYCyCT5opk1zkZ1fwfif4TfpRLWcaHtksFYBFdwCJcFV9gJU0vnsheK%7C%7Cxrl5Md8q4-9bp1WSNmrnd2_3HOdmf6D10_oNFlY7wK_2AterVKSpxg%3D%3D%7CgYDyqD5f1q4z3TAD1fCUHBB0DE82pddK44IMQUIHYTEeghHFWsd8HKy6x2QtFMonrJ6POn7EyuBCx3zwkapnk-taV9zcf1aL%7C7SmM51i9nJyEHPdJc3aKJ1XSSjBo_f4y%7Cxqv43M3_x25xbsWBgWUUULOJtoe6y_8P%7CmDzUi0QRM5ZZAH4bvDzPCqS1GuYfhkErmsQKyt21OsCa610mr-ATK8DGvuuN8HLT4kPpoquN0MXJtctefpfWtAm949ekD0crHg0zcdgRYCX0aTWQulvzu_8JG7uRXQsxUQC3Vgp_UFHxtR8HtrH4bifDncoOAphNyE9Y2osAtNBYbOpirUpeQRE-t1mJfWeRRk_KTbgbQGmF4PZbeJG11cxB9OfmOyRC1ZJftuull94%3D%7C&amp;ecref=w77EQ%3ASSBBB.kLJJNLJ178eJQ.NmYSG1NUyLmxzOQSE1EJLoG1NUyLmxzOQ.w7Yj&amp;bd=5.5%23864%231536&amp;lgpl=eQ7L8O%3AfiiifFH9WWfFiHuA%7CmE7mx7%3A9%7CNkxO%3Aff9H9X%7C8QM1YE%3Au%7CQNQeJL%3Afhh%7C8N17%3Aou%7CQEN17%3Aou%7CymMJz7%3Au%7CjfNw%3A9%7CLJzQ8lJ%3AAAFMfW9%7CQNLMw%3AWFH%7CQNLMB%3AuXAF%7CJN7%3AHy%7C1UN8E%3AHi.f9X.fXA.uFi&amp;kct=15227" class="dak3 anchorhref" target="_top" onmouseout="changeStatus('');return true;" onclick=";"></a>
+</li>
+<li>
+  <div class="content">
+  <div class="num">4</div><div class="arrow"></div>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" align="left">
+    <tbody><tr><td width="100%" align="left" valign="middle" height="53">
+      <div class="anchortext"><a href="https://465480381.keywordblocks.com/search.cfm?&amp;lgplp=jf75EJ%3AQN1&amp;ktr=0&amp;vi=1659422768983955254&amp;cq=hf4NvvVdpJJfB5dS1aa&amp;vsid=2999264088269413&amp;kp=4&amp;sc=AP&amp;oksu=224&amp;kt=355&amp;ki=205715746&amp;ktd=1441152155670216960&amp;kbc=9491f8e20653ad38f5efe7d9cf35c7d9.d2s&amp;kbc2=5%7C5%3D-1%7C6%3D-1%7C16%3D-1%7C60%3D0.54%7C12%3D0.11%7C62%3D0.18%7C63%3D0.49%7C10%3D5.77%7C66%3D0.58%7C1%3D0.43%7Cps%3D0.949%7C3%3D0.20%7C4%3D1.00&amp;kmb=LTEuMDAw&amp;fdkt=355&amp;kcid=500860&amp;prid=8PR65L8CI&amp;cid=8CUVWZRV0&amp;pid=8PO5C4E8X&amp;crid=146765846&amp;https=1&amp;rms=1659422769&amp;c=&amp;ib=0&amp;size=336x280&amp;lpid=&amp;ksu=224&amp;chid=200500459&amp;kwdsMaxTm=400&amp;ugd=4&amp;tsid=7&amp;asn=55577&amp;nsd=home.local.com&amp;bid=304229&amp;pid=8PO5C4E8X&amp;rtbsd=6&amp;vgd_hbReqId=T1659421419C8S34U650&amp;kbbq=%26sde%3D1%26adepth%3D1%26ddepth%3D1&amp;tdAdd[]=ampPageViewId%3D265%7C%40%7Cfsap%3D0&amp;vsidtv=000V10&amp;verid=211213&amp;hvsid=00001659422769073008355834012602&amp;upk=1659422769.17333&amp;sttm=1659422769072&amp;vgd_l1rakh=1659422768185300072&amp;vgd_ifrmode=11&amp;&amp;fp=Nv2DteYNlC5OzWrn-Hm5IlltIOfoL9Pgqn4OA_JRNUVibrT00Q_iSj_6sppqJ6c53f52-4tAI5mxSGCmdJKuLYtgo8XTK-faFng6GXMCGl8m5-AVBeCog54peIji84soHUhD0fcCiA8%3D&amp;cme=ALTNGVWzegTi7VZapDuEXDtPBGWzRLH4ruHDR0fIHnPQJf_FYXXYKAFz8zbzSyay0H5p26fCbqb7mn9clYjPxt6dFtQMhX9VQid-0J7sY9xbCHzHiXQgBk1897IyFdAi05hnduNE7gejhS7AjIP78QgiFDZmx8eA3D1QR1IXKGYCyCT5opk1zkZ1fwfif4TfpRLWcaHtksFYBFdwCJcFV9gJU0vnsheK%7C%7Cxrl5Md8q4-9bp1WSNmrnd2_3HOdmf6D10_oNFlY7wK_2AterVKSpxg%3D%3D%7CgYDyqD5f1q4z3TAD1fCUHBB0DE82pddK44IMQUIHYTEeghHFWsd8HKy6x2QtFMonrJ6POn7EyuBCx3zwkapnk-taV9zcf1aL%7C7SmM51i9nJyEHPdJc3aKJ1XSSjBo_f4y%7Cxqv43M3_x25xbsWBgWUUULOJtoe6y_8P%7CmDzUi0QRM5ZZAH4bvDzPCqS1GuYfhkErmsQKyt21OsCa610mr-ATK8DGvuuN8HLT4kPpoquN0MXJtctefpfWtAm949ekD0crHg0zcdgRYCX0aTWQulvzu_8JG7uRXQsxUQC3Vgp_UFHxtR8HtrH4bifDncoOAphNyE9Y2osAtNBYbOpirUpeQRE-t1mJfWeRRk_KTbgbQGmF4PZbeJG11cxB9OfmOyRC1ZJftuull94%3D%7C&amp;ecref=w77EQ%3ASSBBB.kLJJNLJ178eJQ.NmYSG1NUyLmxzOQSE1EJLoG1NUyLmxzOQ.w7Yj&amp;bd=5.5%23864%231536&amp;lgpl=eQ7L8O%3AfiiifFH9WWfFiHuA%7CmE7mx7%3A9%7CNkxO%3Aff9H9X%7C8QM1YE%3Au%7CQNQeJL%3Afhh%7C8N17%3Aou%7CQEN17%3Aou%7CymMJz7%3Au%7CjfNw%3A9%7CLJzQ8lJ%3AAAFMfW9%7CQNLMw%3AWFH%7CQNLMB%3AuXAF%7CJN7%3AHy%7C1UN8E%3AHi.f9X.fXA.uFi" target="_top" onmouseover="" onmouseout="changeStatus('');return true;" onclick=";" id="dk4" name="dk4" data-misc="{&quot;ogkwd&quot;:&quot;Bedroom Accent Wall&quot;}">Bedroom Accent Wall</a></div>
+    </td></tr>
+  </tbody></table>  
+  </div>
+  <a href="https://465480381.keywordblocks.com/search.cfm?&amp;lgplp=jf75EJ%3AQN1&amp;ktr=0&amp;vi=1659422768983955254&amp;cq=hf4NvvVdpJJfB5dS1aa&amp;vsid=2999264088269413&amp;kp=4&amp;sc=AP&amp;oksu=224&amp;kt=355&amp;ki=205715746&amp;ktd=1441152155670216960&amp;kbc=9491f8e20653ad38f5efe7d9cf35c7d9.d2s&amp;kbc2=5%7C5%3D-1%7C6%3D-1%7C16%3D-1%7C60%3D0.54%7C12%3D0.11%7C62%3D0.18%7C63%3D0.49%7C10%3D5.77%7C66%3D0.58%7C1%3D0.43%7Cps%3D0.949%7C3%3D0.20%7C4%3D1.00&amp;kmb=LTEuMDAw&amp;fdkt=355&amp;kcid=500860&amp;prid=8PR65L8CI&amp;cid=8CUVWZRV0&amp;pid=8PO5C4E8X&amp;crid=146765846&amp;https=1&amp;rms=1659422769&amp;c=&amp;ib=0&amp;size=336x280&amp;lpid=&amp;ksu=224&amp;chid=200500459&amp;kwdsMaxTm=400&amp;ugd=4&amp;tsid=7&amp;asn=55577&amp;nsd=home.local.com&amp;bid=304229&amp;pid=8PO5C4E8X&amp;rtbsd=6&amp;vgd_hbReqId=T1659421419C8S34U650&amp;kbbq=%26sde%3D1%26adepth%3D1%26ddepth%3D1&amp;tdAdd[]=ampPageViewId%3D265%7C%40%7Cfsap%3D0&amp;vsidtv=000V10&amp;verid=211213&amp;hvsid=00001659422769073008355834012602&amp;upk=1659422769.17333&amp;sttm=1659422769072&amp;vgd_l1rakh=1659422768185300072&amp;vgd_ifrmode=11&amp;&amp;fp=Nv2DteYNlC5OzWrn-Hm5IlltIOfoL9Pgqn4OA_JRNUVibrT00Q_iSj_6sppqJ6c53f52-4tAI5mxSGCmdJKuLYtgo8XTK-faFng6GXMCGl8m5-AVBeCog54peIji84soHUhD0fcCiA8%3D&amp;cme=ALTNGVWzegTi7VZapDuEXDtPBGWzRLH4ruHDR0fIHnPQJf_FYXXYKAFz8zbzSyay0H5p26fCbqb7mn9clYjPxt6dFtQMhX9VQid-0J7sY9xbCHzHiXQgBk1897IyFdAi05hnduNE7gejhS7AjIP78QgiFDZmx8eA3D1QR1IXKGYCyCT5opk1zkZ1fwfif4TfpRLWcaHtksFYBFdwCJcFV9gJU0vnsheK%7C%7Cxrl5Md8q4-9bp1WSNmrnd2_3HOdmf6D10_oNFlY7wK_2AterVKSpxg%3D%3D%7CgYDyqD5f1q4z3TAD1fCUHBB0DE82pddK44IMQUIHYTEeghHFWsd8HKy6x2QtFMonrJ6POn7EyuBCx3zwkapnk-taV9zcf1aL%7C7SmM51i9nJyEHPdJc3aKJ1XSSjBo_f4y%7Cxqv43M3_x25xbsWBgWUUULOJtoe6y_8P%7CmDzUi0QRM5ZZAH4bvDzPCqS1GuYfhkErmsQKyt21OsCa610mr-ATK8DGvuuN8HLT4kPpoquN0MXJtctefpfWtAm949ekD0crHg0zcdgRYCX0aTWQulvzu_8JG7uRXQsxUQC3Vgp_UFHxtR8HtrH4bifDncoOAphNyE9Y2osAtNBYbOpirUpeQRE-t1mJfWeRRk_KTbgbQGmF4PZbeJG11cxB9OfmOyRC1ZJftuull94%3D%7C&amp;ecref=w77EQ%3ASSBBB.kLJJNLJ178eJQ.NmYSG1NUyLmxzOQSE1EJLoG1NUyLmxzOQ.w7Yj&amp;bd=5.5%23864%231536&amp;lgpl=eQ7L8O%3AfiiifFH9WWfFiHuA%7CmE7mx7%3A9%7CNkxO%3Aff9H9X%7C8QM1YE%3Au%7CQNQeJL%3Afhh%7C8N17%3Aou%7CQEN17%3Aou%7CymMJz7%3Au%7CjfNw%3A9%7CLJzQ8lJ%3AAAFMfW9%7CQNLMw%3AWFH%7CQNLMB%3AuXAF%7CJN7%3AHy%7C1UN8E%3AHi.f9X.fXA.uFi&amp;kct=15751" class="dak4 anchorhref" target="_top" onmouseout="changeStatus('');return true;" onclick=";"></a>
+</li>
+</ul>
+</div>
+<a class="adchoice-footer" id="adprefid" href="https://media.net/adchoices?id=465480381" target="_blank" style="top:2px;right:20px"></a><div class="gear-icon" id="gear_icon" style="top:2px;right:0"></div><div id="scr_wrap" style="display: none;">
+
+    <div id="scr_feedback_wrap" style="display: none;">
+
+        <div id="scr_msg" style="display: none;">
+            <div class="scr_msg_cont">
+                This Ad Unit shows popular or related topics. Clicking on any of these will show you a list of sponsored
+                results from advertisers.
+            </div>
+            <div class="scr_btn_cont">
+                <div class="scr_btn_1" onclick="adPrefDeviceUtil.showOptionsScreen()">
+                    Hide Ads
+                </div>
+                                    <a class="scr_btn_2" href="https://www.media.net/privacy-policy?id=465480381" target="_blank">
+                        Privacy Policy
+                    </a>
+                            </div>
+        </div>
+
+        <div id="scr_options" style="display: none;">
+
+            <div class="scr_msg_cont">
+                Help us improve your experience by selecting a reason for hiding this Ad Unit.
+            </div>
+            <div id="scr_options_btn_wrap" class="scr_options">
+                <label>
+                    <input type="radio" name="feedback_option" value="Covering page content" checked="checked" onclick="adPrefDeviceUtil.screenOptionsChanged()">
+                    <span>
+                        Covering Page Content
+                    </span>
+                </label>
+                <label>
+                    <input type="radio" name="feedback_option" value="Repetitive" onclick="adPrefDeviceUtil.screenOptionsChanged()">
+                    <span>
+                        Repetitive
+                    </span>
+                </label>
+                <label>
+                    <input type="radio" name="feedback_option" value="Not interested" onclick="adPrefDeviceUtil.screenOptionsChanged()">
+                    <span>
+                        Not Interested
+                    </span>
+                </label>
+                <label>
+                    <input type="radio" name="feedback_option" value="other" onclick="adPrefDeviceUtil.screenOptionsChanged()">
+                    <span>
+                        Other
+                    </span>
+                </label>
+            </div>
+            <div id="scr_other_txt_box" class="scr_other_txt">
+                <input type="text" name="other" value="">
+            </div>
+            <div class="scr_btn_cont">
+                <div class="scr_btn_1" onclick="adPrefDeviceUtil.closeScreen()">
+                    Cancel
+                </div>
+                <div class="scr_btn_2" onclick="adPrefDeviceUtil.hideAdtag()">
+                    Submit
+                </div>
+            </div>
+        </div>
+
+        <div class="scr_heading">
+            Ad Preferences
+        </div>
+        <div class="scr_close" onclick="adPrefDeviceUtil.closeScreen()"></div>
+
+    </div>
+
+    <div id="scr_undo_cont" style="display: none;">
+        The Ad has been hidden. You can undo the action by clicking <span id="scr_undo_btn" onclick="adPrefDeviceUtil.showAdtag()">here</span>.
+    </div>
+
+</div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+
