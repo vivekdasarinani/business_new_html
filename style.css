@@ -10,6 +10,17 @@
   clear: both;
 }
 
+.flex {
+  display: flex;
+}
+
+.btn {
+  /* align-items: center; */
+  text-align: center;
+  padding: 55px;
+  cursor: pointer;
+}
+
 .section-title-white h3 {
   padding: 20px;
 }
@@ -22,8 +33,9 @@ i.fa.fa {
   flex-direction: row;
   justify-content: center;
   display: flex;
-  padding: 11px;
-  font-size: 33px;
+  padding: 9px 26px;
+  font-size: 24px;
+  /* color: #8094b9; */
 }
 
 .section-title {
@@ -49,19 +61,35 @@ i.fa.fa {
   margin: 0 auto;
 }
 
-.logo {
-  padding: 0px 94px;
-  font-size: 32px;
+.main {
+  padding: 18px 90px;
+  font-size: 51px;
 }
 
 nav {
-  margin-top: -44px;
+  margin-top: -92px 10px;
+  margin-top: -92px;
+  margin-right: -343px;
 }
 
 .one-section {
+  flex-direction: row;
   background-color: antiquewhite;
-  height: 26px;
+  height: 50px;
+  justify-content: center;
+  display: flex;
   text-align: center;
+  padding: 1px 20px;
+  /* margin: 2px; */
+}
+
+.one {
+  display: flex;
+}
+
+.three-section {
+  float: right;
+  margin: -54px 120px;
 }
 
 .two-menu {
@@ -95,6 +123,9 @@ nav {
   border: none;
 }
 
+/*
+nav-bar-twomenu----end
+*/
 .banner {
   background-image: url(img/pexels-rodrigo-souza-2531709.jpg);
   background-position-x: center;
@@ -116,12 +147,36 @@ nav {
   padding: 211px 4px;
 }
 
+.banner-text-title p {
+  font-family: lato;
+  color: #fff;
+  font-size: 19px;
+  padding: 7px 0px;
+}
+
 .banner-text-title h3 {
-  font-size: 25px;
+  font-size: 29px;
   font-family: lato;
   color: #fff;
 }
 
+.banner-text-title p {
+  font-family: lato;
+  color: #fff;
+  font-size: 19px;
+  padding: 7px 0px;
+}
+
+.banner-text-title h4 {
+  font-size: 30px;
+  font-family: lato;
+  padding: 10px 0px;
+  color: #fff;
+}
+
+/*
+banner-produts------end
+*/
 .section-active-banner {
   background-color: #fff;
 }
@@ -150,6 +205,9 @@ nav {
   color: #fff;
 }
 
+/*
+section-produts------end-
+*/
 .welcome-section {
   background-color: #efefef;
   padding: 20px 10px;
@@ -159,17 +217,14 @@ nav {
   padding: 20px 10px;
 }
 
-.welcome-title h3 {
+/*.welcome-title h3 {
   font-size: 15px;
   font-family: lato;
   text-align: center;
-}
-
-.welcome-title p {
+}.welcome-title p {
   font-size: 16px;
   text-align: center;
-}
-
+}*/
 .welcome-content {
   display: flex;
   /* padding: 25px 153px; */
@@ -178,7 +233,7 @@ nav {
 
 .box-2 {
   width: 33%;
-  height: 326px;
+  height: 336px;
   margin: 2px;
   background-color: #f8f8f8;
 }
@@ -191,8 +246,18 @@ nav {
 .box-2 h5 {
   color: aqua;
   font-size: 15px;
+  padding: 10px;
 }
 
+.box-2 p {
+  font-size: 14px;
+  text-align: left;
+  padding: 0px 10px;
+}
+
+/*
+welcome-produts------end-
+*/
 .read-content {
   background-color: #085472;
   height: 500px;
@@ -213,6 +278,14 @@ nav {
   color: #fff;
   text-align: center;
   font-size: 16px;
+}
+
+.read-title {
+  background-image: url(img/22222.png);
+  height: 1053px;
+  color: #fff;
+  background-repeat: no-repeat;
+  background-position: -7px 143px;
 }
 
 /*.left-dir {
@@ -236,15 +309,17 @@ nav {
   margin-right: 18px;
   z-index: 8;
 }*/
+/*
+read-content-------end-
+*/
 .featured-produts {
   padding: 20px;
 }
 
 .featured-content ul {
   display: flex;
-  /* padding: 8px 7px; */
-  /* text-align: center; */
-  padding-left: 458px;
+  padding: 27px 0px;
+  padding-left: 419px;
 }
 
 .featured-content li.active {
@@ -261,13 +336,18 @@ nav {
   border: 1px solid #b1b1b1;
 }
 
+.align-items {
+  padding: 20px;
+  cursor: pointer;
+}
+
 .featured-content h4 {
   font-size: 18px;
   text-align: center;
+  padding: 12px;
 }
 
 .featured-title {
-  /* display: inline-flex; */
   display: flex;
 }
 
@@ -276,12 +356,6 @@ nav {
   height: 324px;
   background-color: #f8f8f8;
   margin: 2px;
-  /* display: flex; */
-}
-
-.box-11 h4 {
-  font-size: 25px;
-  padding: 25px;
 }
 
 .box-11 p {
@@ -289,6 +363,38 @@ nav {
   text-align: center;
 }
 
+.box-13 {
+  width: 27%;
+  height: 324px;
+  background-color: #000;
+  margin: 2px;
+  color: #fff;
+}
+
+.box-13 p {
+  font-size: 15px;
+  text-align: center;
+}
+
+.box-13 h4 {
+  font-size: 16px;
+  padding: 8px;
+}
+
+.arrow-up {
+  width: 0;
+  height: 0;
+  border-right: 24px solid transparent;
+  border-bottom: 20px solid #060707;
+  border-left: 24px solid transparent;
+  position: relative;
+  left: 127px;
+  top: -24px;
+}
+
+/*
+featured-produts------end-
+*/
 .breaking-section {
   background-color: #f8f8f8;
 }
@@ -329,20 +435,50 @@ nav {
 .box-5 h6 {
   font-size: 12px;
   text-align: center;
+  text-align: left;
+  padding: 5px 113px;
 }
 
 .box-5 p {
   font-size: 10px;
   text-align: center;
+  text-align: left;
+  padding: 2px 113px;
 }
 
-.box-10 {
-  /* display: block; */
+/*breaking-produts------end*/
+.center-align {
+  display: flex;
 }
 
+border {
+  width: 75px;
+  height: 0px;
+  border-top: 4px solid #21a9e8;
+  position: relative;
+  bottom: -2px;
+  color: #fff;
+}
+
+.border-set {
+  width: 25px;
+  height: 25px;
+  border: 2px solid #20cbf9;
+  background-color: #20cbf9;
+  position: absolute;
+  left: 19px;
+}
+
+.border {
+  border-top: 2px solid #355;
+  width: 60px;
+  height: 20px;
+}
+
+/*happy-customer------end*/
 .happy-customer {
   height: 350px;
-  background-color: #49514c;
+  background-image: url(img/wepik-photo-mode-202273-102338.png);
   padding: 58px 0px;
 }
 
@@ -383,6 +519,7 @@ nav {
   color: #fff;
 }
 
+/*happy-customer------end*/
 .core-features-adel {
   padding: 20px;
 }
@@ -412,16 +549,16 @@ nav {
 .box-6 h5 {
   font-size: 16px;
   text-align: center;
-  color: #beb7b7;
+  color: #5c5353;
   text-align: left;
-  padding: 1px 71px;
+  padding: 0px 75px;
 }
 
 .box-6 p {
   font-size: 12px;
-  padding: 1px 65px;
-  text-align: left;
+  padding: 2px 70px;
   color: #aba7a9;
+  text-align: left;
 }
 
 .circle-1 {
@@ -429,7 +566,7 @@ nav {
   height: 51px;
   border: 2px solid #f5f5f5;
   padding: 6px 0px;
-  border-radius: 21%;
+  border-radius: 9%;
   margin-bottom: -76px;
   background-color: #20cbf9;
   color: #fff;
@@ -444,6 +581,7 @@ nav {
   padding: 25px 9px;
 }
 
+/*core-section-----end*/
 .meet-team-header {
   align-items: center;
   margin: 2px;
@@ -498,8 +636,9 @@ nav {
   padding: 15px 0px;
 }
 
+/*meet-team-header------end*/
 .offer-letter {
-  background: #21c2f8;
+  background-image: url(img/wepik-photo-mode-202273-102439.png);
 }
 
 .offer-title {
@@ -535,8 +674,78 @@ input.button {
   text-align: center;
   padding: 8px 17px;
   /* padding-left: 13px; */
-  background-color: #0172a6;
+  background-color: #142f3c;
+  color: #f8f1f1;
+  border: none;
+}
+
+input.buto {
+  padding: 6px 17px;
+  background: #76afce;
+  color: #fff;
+}
+
+input.butto {
+  padding: 7px 11px;
+  background-color: #2399ce;
   color: #fff;
   border: none;
 }
 
+/*offertittle------end*/
+.font-icons-items {
+  background-color: #085472;
+}
+
+.font-items {
+  display: flex;
+}
+
+.font-items li {
+  color: #fff;
+}
+
+.font-items ul {
+  display: flex;
+  /* color: #fff; */
+  list-style: none;
+  text-decoration: none;
+  padding-left: 492px;
+}
+
+.footer-content {
+  background-color: #3e4346;
+  height: 269px;
+  padding: 50px;
+}
+
+.boox-section {
+  display: flex;
+  width: 33%;
+}
+
+.box-14 {
+  display: flex;
+  width: 50%;
+}
+
+.box-14 h6 {
+  padding: 10px;
+}
+
+.bi-3 {
+  padding: 31px 54px;
+  font-size: 32px;
+}
+
+.bi-4 {
+  display: flex;
+  padding: 46px 66px;
+  list-style: none;
+  text-decoration: none;
+  padding: 10;
+}
+
+.bi-4 li {
+  padding: 10px;
+}

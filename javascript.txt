@@ -1,0 +1,58 @@
+javascript
+=============================================
+<script>
+// Get the button, and when the user clicks on it, execute myFunction
+document.getElementById("myBtn").onclick = function() {myFunction()};
+
+/* myFunction toggles between adding and removing the show class, which is used to hide and show the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+</script>           
+
+
+
+change
+     <div class="dropdown">
+  <button id="myBtn" class="dropbtn">Dropdown</button>
+  <div id="myDropdown" class="dropdown-content">
+
+
+js
+
+on click method
+  <div class="main" onclick="this.style.backgroundColor='orange'";>
+
+function vivek(){
+   document.getelementbyid("name").innerhtml="vivek";
+}
+
+if you call function
+name()
+change thing............vivek
+text------
+ 
+
+
+document.getelementbyid("name").style.backgroundColor="any color";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+change
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </div>
+</div>
